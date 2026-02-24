@@ -48,7 +48,11 @@ rechaza data races, no las detecta en runtime.
 |---|---|---|
 | `01_cinco_problemas_fundamentales.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
 
-**Total: 35 ejercicios**
+| `02_herramientas_sincronizacion.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+| `03_patrones_clasicos.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+**Total: 105 ejercicios**
 
 ---
 
