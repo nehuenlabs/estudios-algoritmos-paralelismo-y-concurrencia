@@ -52,7 +52,24 @@ rechaza data races, no las detecta en runtime.
 
 | `03_patrones_clasicos.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
 
-**Total: 105 ejercicios**
+| `04_goroutines_scheduler_go.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+| `05_go_idiomatico.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+| `06_modelos_concurrencia.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+| `07_testing_sistematico.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+| `07_testing_sistematico.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+**Parte 1 completa: 245 ejercicios**
+
+### Parte 2 — Paralelismo
+
+| Capítulo | Estado | Ejercicios |
+|---|---|---|
+| `08_paralelismo_datos.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+**Total acumulado: 280 ejercicios**
 
 ---
 
