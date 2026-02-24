@@ -69,7 +69,9 @@ rechaza data races, no las detecta en runtime.
 |---|---|---|
 | `08_paralelismo_datos.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
 
-**Total acumulado: 280 ejercicios**
+| `09_escalabilidad_maquinas.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+**Total acumulado: 315 ejercicios**
 
 ---
 
