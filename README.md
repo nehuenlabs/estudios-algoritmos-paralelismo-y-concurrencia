@@ -80,7 +80,12 @@ rechaza data races, no las detecta en runtime.
 
 | `14_java_concurrencia.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
 
-**Total acumulado: 490 ejercicios**
+| `15_python_concurrencia.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+| `16_csharp_concurrencia.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+**Parte 3 completa: 140 ejercicios (Cap.13-16)**
+**Total acumulado: 560 ejercicios**
 
 ---
 
