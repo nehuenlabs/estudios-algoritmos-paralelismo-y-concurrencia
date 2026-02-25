@@ -85,7 +85,22 @@ rechaza data races, no las detecta en runtime.
 | `16_csharp_concurrencia.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
 
 **Parte 3 completa: 140 ejercicios (Cap.13-16)**
-**Total acumulado: 560 ejercicios**
+| `17_arquitectura_produccion.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+**Parte 4 completa: 35 ejercicios (Cap.17)**
+
+---
+
+## 🎉 Repositorio completo
+
+**Total: 595 ejercicios en 17 capítulos**
+
+| Parte | Capítulos | Ejercicios | Tema |
+|---|---|---|---|
+| 1 — Concurrencia | Cap.01-07 | 245 | Fundamentos en Go |
+| 2 — Paralelismo | Cap.08-12 | 175 | Hardware + estructuras lock-free |
+| 3 — Lenguajes | Cap.13-16 | 140 | Rust, Java, Python, C# |
+| 4 — Producción | Cap.17 | 35 | Observabilidad, resilience, operabilidad |
 
 ---
 
