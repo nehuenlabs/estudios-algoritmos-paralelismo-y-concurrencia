@@ -73,8 +73,14 @@ rechaza data races, no las detecta en runtime.
 
 | `10_paralelismo_tareas.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
 | `11_hardware_y_cpu.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+| `12_estructuras_lock_free.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
 
-**Total acumulado: 385 ejercicios**
+**Parte 2 completa: 175 ejercicios (Cap.08-12)**
+| `13_rust_concurrencia.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+| `14_java_concurrencia.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+**Total acumulado: 490 ejercicios**
 
 ---
 
