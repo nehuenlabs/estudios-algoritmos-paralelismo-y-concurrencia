@@ -71,7 +71,9 @@ rechaza data races, no las detecta en runtime.
 
 | `09_escalabilidad_maquinas.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
 
-**Total acumulado: 315 ejercicios**
+| `10_paralelismo_tareas.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+**Total acumulado: 350 ejercicios**
 
 ---
 
@@ -95,3 +97,12 @@ entender por qué ocurre, y razonar sobre la solución.
 Para el Cap.01 en particular: antes de leer la sección de teoría,
 intenta responder por qué el contador del ejemplo inicial no siempre da 2000.
 Si puedes explicarlo sin leer la sección, el resto del capítulo será más ligero.
+
+### Parte 3a — Concurrencia por lenguaje (entrevistas)
+
+| Capítulo | Estado | Ejercicios |
+|---|---|---|
+| `10_estructuras_lock_free.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+| `11_java_concurrencia.md` | ✅ Listo | 35 ejercicios (7 secciones × 5) |
+
+**Total acumulado: 385 ejercicios**
